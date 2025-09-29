@@ -142,6 +142,7 @@ ehthumbs.db
 Thumbs.db
 
 # Generated HIP files (specific to this project)
+*.cu
 *.hip
 
 # Local configuration files
