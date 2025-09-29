@@ -4,7 +4,7 @@ from setuptools import setup
 if __name__ == '__main__':
     setup(
         name='pyHIPIFY',
-        version='0.0.1a8',
+        version='0.0.1b1',
         description='Simple utility to transform CUDA source into HIP source',
         long_description=open('README.md', encoding='utf-8').read(),
         long_description_content_type='text/markdown',

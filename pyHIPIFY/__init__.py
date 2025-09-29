@@ -44,7 +44,7 @@ Main components:
 """
 
 # Version info
-__version__ = '0.0.1a8'
+__version__ = '0.0.1b1'
 
 # Import main functions with shorter names
 from . import api

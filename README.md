@@ -113,4 +113,19 @@ pyHIPIFY通过预定义的CUDA到HIP API映射表进行代码转换，核心映�
 
 ## 反馈与支持
 
-目前该项目暂未在GitHub上开放，如有问题或建议请联系相关维护人员。
+我们欢迎并感谢任何形式的贡献！无论是提交 bug、建议新功能，还是改进文档，你的参与都让这个项目变得更好。
+
+#### 提交反馈（Submit Feedback）
+如果你发现了 bug 或有功能建议，请通过以下方式提交：
+
+- **提交 Issue**：点击 [Issues](https://github.com/your-username/your-repo/issues) 页面，新建一个 issue。
+  - 请使用清晰的标题和描述。
+  - 如果可能，附上复现步骤、截图或相关日志。
+
+#### 提交代码改进（Submit Code Changes）
+如果你想直接改进代码或文档：
+
+1. **Fork 本仓库**。
+2. **创建一个新分支**（如 `fix-typo` 或 `add-feature-x`）。
+3. **提交你的修改**，并确保遵循项目的代码规范。
+4. **发起 Pull Request**，并在描述中简要说明改动内容。
